@@ -1,1 +1,1 @@
-{"allocations": {"MSFT": 25, "AAPL": 25, "NVDA": 0, "AMZN": 0}, "frequency": 30, "name": "", "period": "days"}
+{"allocations": {"NVDA": 30, "AMZN": 20, "VOO": 15, "META": 35}, "frequency": 30, "name": "June Strategy", "period": "days"}
