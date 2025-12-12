@@ -1,1 +1,1 @@
-{"allocations": {"GOOGL": 25.0, "IBM": 20.0, "NVDA": 20.0, "MSFT": 15.0, "INTC": 10.0, "AMZN": 10.0}, "frequency": 3, "name": "", "period": "months"}
+{"allocations": {"GOOGL": 25.0, "IBM": 20.0, "NVDA": 20.0, "MSFT": 15.0, "INTC": 10.0, "AMZN": 10.0}, "frequency": 30, "name": "Sector Rotation Strategy", "period": "days"}
