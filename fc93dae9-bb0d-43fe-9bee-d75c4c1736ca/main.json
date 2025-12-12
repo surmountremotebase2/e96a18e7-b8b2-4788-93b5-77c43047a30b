@@ -1,1 +1,1 @@
-{"allocations": {"IBM": 20.0, "GOOGL": 18.0, "NVDA": 15.0, "MSFT": 12.0, "IONQ": 10.0, "RGTI": 8.0, "QBTS": 7.0, "INTC": 6.0, "AMZN": 4.0}, "frequency": 3, "name": "", "period": "months"}
+{"allocations": {"IBM": 20.0, "GOOGL": 18.0, "NVDA": 15.0, "MSFT": 12.0, "IONQ": 10.0, "RGTI": 8.0, "QBTS": 7.0, "INTC": 6.0, "AMZN": 4.0}, "frequency": 30, "name": "Diversified Growth Strategy 1", "period": "days"}
