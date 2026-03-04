@@ -1,1 +1,1 @@
-{}
+{"allocations": {"LMT": 20.0, "RTX": 18.0, "BA": 15.0, "NOC": 15.0, "GD": 12.0, "LHX": 10.0, "LDOS": 5.0, "TXT": 5.0}, "frequency": 3, "name": "", "period": "months"}
